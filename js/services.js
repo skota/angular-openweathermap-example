@@ -1,4 +1,5 @@
 // serivce for ferching data from api
+(function() {
 angular.module('weatherApp').
 factory('weatherAppSvc', ['$http', function($http) {
     var baseUrl = 'http://api.openweathermap.org/data/2.5/'; //api base url
@@ -16,3 +17,4 @@ factory('weatherAppSvc', ['$http', function($http) {
       	}
     }  
 }])
+})();
