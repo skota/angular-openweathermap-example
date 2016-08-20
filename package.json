@@ -1,0 +1,24 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "sample app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skota/angular-openweathermap-example.git"
+  },
+  "keywords": [
+    "angular",
+    "rest",
+    "api"
+  ],
+  "author": "skota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skota/angular-openweathermap-example/issues"
+  },
+  "homepage": "https://github.com/skota/angular-openweathermap-example#readme"
+}
